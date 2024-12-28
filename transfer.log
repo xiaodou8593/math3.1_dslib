@@ -1,0 +1,436 @@
+2024-07-18 18:26:33,773 - DEBUG - 67 - 待转化参数 ['math:compound/']
+2024-07-18 18:26:33,773 - DEBUG - 68 - 待输出参数 cam_utils:/
+2024-07-18 18:26:33,773 - DEBUG - 38 - namespace: cam_utils, path: /
+2024-07-18 18:26:33,773 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions//
+2024-07-18 18:26:33,773 - DEBUG - 71 - 待输出参数mcpath2path D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions//
+2024-07-18 18:26:33,773 - DEBUG - 60 - cam_utils:/
+2024-07-18 18:26:33,773 - DEBUG - 38 - namespace: math, path: compound/
+2024-07-18 18:26:33,774 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/
+2024-07-18 18:26:33,774 - INFO - 85 - 扫描路径 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/
+2024-07-18 18:26:33,774 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction
+2024-07-18 18:26:33,774 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction
+2024-07-18 18:26:33,774 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction
+2024-07-18 18:26:33,775 - INFO - 85 - 扫描路径 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys
+2024-07-18 18:26:33,775 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keysfirst.mcfunction
+2024-07-18 18:26:33,775 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keysloop.mcfunction
+2024-07-18 18:26:33,775 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keysmain.mcfunction
+2024-07-18 18:26:33,775 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keysremove.mcfunction
+2024-07-18 18:26:33,775 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keyssloop.mcfunction
+2024-07-18 18:26:33,775 - INFO - 85 - 扫描路径 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash
+2024-07-18 18:26:33,775 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hashauto.mcfunction
+2024-07-18 18:26:33,776 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hashkey.mcfunction
+2024-07-18 18:26:33,776 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hashkey_string.mcfunction
+2024-07-18 18:26:33,776 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hashlist.mcfunction
+2024-07-18 18:26:33,776 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hashself.mcfunction
+2024-07-18 18:26:33,776 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hashself_string.mcfunction
+2024-07-18 18:26:33,776 - INFO - 85 - 扫描路径 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test
+2024-07-18 18:26:33,776 - INFO - 89 - 标注处理 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/testget_keys.mcfunction
+2024-07-18 18:26:33,776 - DEBUG - 100 - path_deque长度: 15
+2024-07-18 18:26:33,776 - DEBUG - 60 - math:compound//_get_keys
+2024-07-18 18:26:33,777 - DEBUG - 117 - math compound//_get_keys cam_utils / cam_utils:compound//_get_keys
+2024-07-18 18:26:33,777 - DEBUG - 38 - namespace: math, path: compound/_get_keys
+2024-07-18 18:26:33,777 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction
+2024-07-18 18:26:33,778 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,778 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,778 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,778 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,778 - DEBUG - 38 - namespace: math, path: compound/get_keys/main
+2024-07-18 18:26:33,778 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,778 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_get_keys.mcfunction 中需要转化 ['math:compound/get_keys/main', 'math:compound/_get_keys', 'math:io', 'math:io']
+2024-07-18 18:26:33,778 - DEBUG - 60 - math:compound//_if_key
+2024-07-18 18:26:33,779 - DEBUG - 117 - math compound//_if_key cam_utils / cam_utils:compound//_if_key
+2024-07-18 18:26:33,779 - DEBUG - 38 - namespace: math, path: compound/_if_key
+2024-07-18 18:26:33,779 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction
+2024-07-18 18:26:33,779 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,779 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,780 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_if_key.mcfunction 中需要转化 ['math:compound/_if_key', 'math:io']
+2024-07-18 18:26:33,780 - DEBUG - 60 - math:compound//_new_key
+2024-07-18 18:26:33,780 - DEBUG - 117 - math compound//_new_key cam_utils / cam_utils:compound//_new_key
+2024-07-18 18:26:33,780 - DEBUG - 38 - namespace: math, path: compound/_new_key
+2024-07-18 18:26:33,781 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction
+2024-07-18 18:26:33,781 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,781 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,781 - DEBUG - 38 - namespace: math, path: compound/_if_key
+2024-07-18 18:26:33,781 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction
+2024-07-18 18:26:33,781 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_new_key.mcfunction 中需要转化 ['math:compound/_new_key', 'math:compound/_if_key', 'math:io']
+2024-07-18 18:26:33,781 - DEBUG - 60 - math:compound/get_keys/first
+2024-07-18 18:26:33,781 - DEBUG - 117 - math compound/get_keys/first cam_utils / cam_utils:compound/get_keys/first
+2024-07-18 18:26:33,782 - DEBUG - 38 - namespace: math, path: compound/get_keys/first
+2024-07-18 18:26:33,782 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction
+2024-07-18 18:26:33,782 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction 中需要转化 ['math:compound/get_keys/first']
+2024-07-18 18:26:33,782 - DEBUG - 60 - math:compound/get_keys/loop
+2024-07-18 18:26:33,782 - DEBUG - 117 - math compound/get_keys/loop cam_utils / cam_utils:compound/get_keys/loop
+2024-07-18 18:26:33,783 - DEBUG - 38 - namespace: math, path: compound/get_keys/loop
+2024-07-18 18:26:33,784 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,784 - DEBUG - 38 - namespace: , path: 
+2024-07-18 18:26:33,784 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data//functions/
+2024-07-18 18:26:33,784 - DEBUG - 38 - namespace: , path: 
+2024-07-18 18:26:33,784 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data//functions/
+2024-07-18 18:26:33,784 - DEBUG - 38 - namespace: math, path: compound/get_keys/sloop
+2024-07-18 18:26:33,784 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,784 - DEBUG - 38 - namespace: math, path: compound/get_keys/first
+2024-07-18 18:26:33,784 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction
+2024-07-18 18:26:33,784 - DEBUG - 38 - namespace: math, path: compound/get_keys/remove
+2024-07-18 18:26:33,784 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction
+2024-07-18 18:26:33,785 - DEBUG - 38 - namespace: math, path: compound/get_keys/loop
+2024-07-18 18:26:33,785 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,785 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中需要转化 ['math:compound/get_keys/remove', 'math:compound/get_keys/sloop', 'math:compound/get_keys/first', 'math:compound/get_keys/loop', 'math:compound/get_keys/loop', ':', ':']
+2024-07-18 18:26:33,785 - DEBUG - 60 - math:compound/get_keys/main
+2024-07-18 18:26:33,785 - DEBUG - 117 - math compound/get_keys/main cam_utils / cam_utils:compound/get_keys/main
+2024-07-18 18:26:33,786 - DEBUG - 38 - namespace: math, path: compound/get_keys/main
+2024-07-18 18:26:33,786 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,786 - DEBUG - 38 - namespace: math, path: compound/get_keys/loop
+2024-07-18 18:26:33,786 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,786 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction 中需要转化 ['math:compound/get_keys/main', 'math:compound/get_keys/loop']
+2024-07-18 18:26:33,786 - DEBUG - 60 - math:compound/get_keys/remove
+2024-07-18 18:26:33,786 - DEBUG - 117 - math compound/get_keys/remove cam_utils / cam_utils:compound/get_keys/remove
+2024-07-18 18:26:33,787 - DEBUG - 38 - namespace: math, path: compound/get_keys/remove
+2024-07-18 18:26:33,787 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction
+2024-07-18 18:26:33,787 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction 中需要转化 ['math:compound/get_keys/remove']
+2024-07-18 18:26:33,787 - DEBUG - 60 - math:compound/get_keys/sloop
+2024-07-18 18:26:33,787 - DEBUG - 117 - math compound/get_keys/sloop cam_utils / cam_utils:compound/get_keys/sloop
+2024-07-18 18:26:33,788 - DEBUG - 38 - namespace: math, path: compound/get_keys/sloop
+2024-07-18 18:26:33,788 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,788 - DEBUG - 38 - namespace: , path: 
+2024-07-18 18:26:33,788 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data//functions/
+2024-07-18 18:26:33,788 - DEBUG - 38 - namespace: math, path: compound/get_keys/sloop
+2024-07-18 18:26:33,788 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,789 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 中需要转化 ['math:compound/get_keys/sloop', 'math:compound/get_keys/sloop', ':']
+2024-07-18 18:26:33,789 - DEBUG - 60 - math:compound/hash/auto
+2024-07-18 18:26:33,789 - DEBUG - 117 - math compound/hash/auto cam_utils / cam_utils:compound/hash/auto
+2024-07-18 18:26:33,790 - DEBUG - 38 - namespace: math, path: compound/hash/auto
+2024-07-18 18:26:33,790 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction
+2024-07-18 18:26:33,790 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,790 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,790 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction 中需要转化 ['math:compound/hash/auto', 'math:io']
+2024-07-18 18:26:33,790 - DEBUG - 60 - math:compound/hash/key
+2024-07-18 18:26:33,790 - DEBUG - 117 - math compound/hash/key cam_utils / cam_utils:compound/hash/key
+2024-07-18 18:26:33,791 - DEBUG - 38 - namespace: math, path: compound/hash/key
+2024-07-18 18:26:33,791 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key.mcfunction
+2024-07-18 18:26:33,791 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,791 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,791 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key.mcfunction 中需要转化 ['math:compound/hash/key', 'math:io']
+2024-07-18 18:26:33,791 - DEBUG - 60 - math:compound/hash/key_string
+2024-07-18 18:26:33,792 - DEBUG - 117 - math compound/hash/key_string cam_utils / cam_utils:compound/hash/key_string
+2024-07-18 18:26:33,792 - DEBUG - 38 - namespace: math, path: compound/hash/key_string
+2024-07-18 18:26:33,792 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction
+2024-07-18 18:26:33,792 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,792 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,792 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction 中需要转化 ['math:compound/hash/key_string', 'math:io']
+2024-07-18 18:26:33,793 - DEBUG - 60 - math:compound/hash/list
+2024-07-18 18:26:33,793 - DEBUG - 117 - math compound/hash/list cam_utils / cam_utils:compound/hash/list
+2024-07-18 18:26:33,793 - DEBUG - 38 - namespace: math, path: compound/hash/list
+2024-07-18 18:26:33,793 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/list.mcfunction
+2024-07-18 18:26:33,794 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,794 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,794 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/list.mcfunction 中需要转化 ['math:compound/hash/list', 'math:io']
+2024-07-18 18:26:33,794 - DEBUG - 60 - math:compound/hash/self
+2024-07-18 18:26:33,794 - DEBUG - 117 - math compound/hash/self cam_utils / cam_utils:compound/hash/self
+2024-07-18 18:26:33,795 - DEBUG - 38 - namespace: math, path: compound/hash/self
+2024-07-18 18:26:33,795 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self.mcfunction
+2024-07-18 18:26:33,795 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,795 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,795 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self.mcfunction 中需要转化 ['math:compound/hash/self', 'math:io']
+2024-07-18 18:26:33,795 - DEBUG - 60 - math:compound/hash/self_string
+2024-07-18 18:26:33,796 - DEBUG - 117 - math compound/hash/self_string cam_utils / cam_utils:compound/hash/self_string
+2024-07-18 18:26:33,796 - DEBUG - 38 - namespace: math, path: compound/hash/self_string
+2024-07-18 18:26:33,796 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction
+2024-07-18 18:26:33,796 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,796 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,796 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction 中需要转化 ['math:compound/hash/self_string', 'math:io']
+2024-07-18 18:26:33,797 - DEBUG - 60 - math:compound/test/get_keys
+2024-07-18 18:26:33,797 - DEBUG - 117 - math compound/test/get_keys cam_utils / cam_utils:compound/test/get_keys
+2024-07-18 18:26:33,798 - DEBUG - 38 - namespace: math, path: compound/test/get_keys
+2024-07-18 18:26:33,798 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction
+2024-07-18 18:26:33,798 - DEBUG - 38 - namespace: math, path: compound/_get_keys
+2024-07-18 18:26:33,798 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction
+2024-07-18 18:26:33,798 - DEBUG - 38 - namespace: , path: 
+2024-07-18 18:26:33,798 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data//functions/
+2024-07-18 18:26:33,798 - DEBUG - 38 - namespace: , path: 
+2024-07-18 18:26:33,798 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data//functions/
+2024-07-18 18:26:33,798 - INFO - 130 - 已提取 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中需要转化 ['math:compound/test/get_keys', 'math:compound/_get_keys', ':', ':']
+2024-07-18 18:26:33,798 - DEBUG - 60 - math:compound/_get_keys
+2024-07-18 18:26:33,799 - DEBUG - 117 - math compound/_get_keys cam_utils / cam_utils:compound/_get_keys
+2024-07-18 18:26:33,799 - DEBUG - 38 - namespace: math, path: compound/_get_keys
+2024-07-18 18:26:33,799 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction
+2024-07-18 18:26:33,799 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,799 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,799 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,799 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,800 - DEBUG - 38 - namespace: math, path: compound/get_keys/main
+2024-07-18 18:26:33,800 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,800 - INFO - 130 - 已提取 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction 中需要转化 ['math:compound/get_keys/main', 'math:compound/_get_keys', 'math:io', 'math:io']
+2024-07-18 18:26:33,800 - DEBUG - 60 - math:compound/get_keys/main
+2024-07-18 18:26:33,800 - DEBUG - 60 - math:compound/_if_key
+2024-07-18 18:26:33,800 - DEBUG - 117 - math compound/_if_key cam_utils / cam_utils:compound/_if_key
+2024-07-18 18:26:33,801 - DEBUG - 38 - namespace: math, path: compound/_if_key
+2024-07-18 18:26:33,801 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction
+2024-07-18 18:26:33,801 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,801 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,801 - INFO - 130 - 已提取 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction 中需要转化 ['math:compound/_if_key', 'math:io']
+2024-07-18 18:26:33,801 - DEBUG - 60 - math:compound/_new_key
+2024-07-18 18:26:33,802 - DEBUG - 117 - math compound/_new_key cam_utils / cam_utils:compound/_new_key
+2024-07-18 18:26:33,802 - DEBUG - 38 - namespace: math, path: compound/_new_key
+2024-07-18 18:26:33,802 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction
+2024-07-18 18:26:33,802 - DEBUG - 38 - namespace: math, path: io
+2024-07-18 18:26:33,802 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,802 - DEBUG - 38 - namespace: math, path: compound/_if_key
+2024-07-18 18:26:33,803 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction
+2024-07-18 18:26:33,803 - INFO - 130 - 已提取 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction 中需要转化 ['math:compound/_new_key', 'math:compound/_if_key', 'math:io']
+2024-07-18 18:26:33,803 - DEBUG - 60 - math:compound/get_keys/first
+2024-07-18 18:26:33,803 - DEBUG - 60 - math:compound/get_keys/loop
+2024-07-18 18:26:33,803 - DEBUG - 60 - math:compound/get_keys/sloop
+2024-07-18 18:26:33,803 - DEBUG - 60 - math:compound/get_keys/remove
+2024-07-18 18:26:33,803 - DEBUG - 60 - math:compound/hash/auto
+2024-07-18 18:26:33,804 - DEBUG - 60 - math:compound/hash/key
+2024-07-18 18:26:33,804 - DEBUG - 60 - math:compound/hash/key_string
+2024-07-18 18:26:33,804 - DEBUG - 60 - math:compound/hash/list
+2024-07-18 18:26:33,804 - DEBUG - 60 - math:compound/hash/self
+2024-07-18 18:26:33,804 - DEBUG - 60 - math:compound/hash/self_string
+2024-07-18 18:26:33,804 - DEBUG - 60 - math:compound/test/get_keys
+2024-07-18 18:26:33,805 - DEBUG - 143 - {'math:compound//_get_keys': 'cam_utils:compound//_get_keys', 'math:compound//_if_key': 'cam_utils:compound//_if_key', 'math:compound//_new_key': 'cam_utils:compound//_new_key', 'math:compound/get_keys/first': 'cam_utils:compound/get_keys/first', 'math:compound/get_keys/loop': 'cam_utils:compound/get_keys/loop', 'math:compound/get_keys/main': 'cam_utils:compound/get_keys/main', 'math:compound/get_keys/remove': 'cam_utils:compound/get_keys/remove', 'math:compound/get_keys/sloop': 'cam_utils:compound/get_keys/sloop', 'math:compound/hash/auto': 'cam_utils:compound/hash/auto', 'math:compound/hash/key': 'cam_utils:compound/hash/key', 'math:compound/hash/key_string': 'cam_utils:compound/hash/key_string', 'math:compound/hash/list': 'cam_utils:compound/hash/list', 'math:compound/hash/self': 'cam_utils:compound/hash/self', 'math:compound/hash/self_string': 'cam_utils:compound/hash/self_string', 'math:compound/test/get_keys': 'cam_utils:compound/test/get_keys', 'math:compound/_get_keys': 'cam_utils:compound/_get_keys', 'math:compound/_if_key': 'cam_utils:compound/_if_key', 'math:compound/_new_key': 'cam_utils:compound/_new_key'}
+2024-07-18 18:26:33,805 - DEBUG - 60 - math:compound//_get_keys
+2024-07-18 18:26:33,805 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_get_keys.mcfunction - math:compound//_get_keys
+2024-07-18 18:26:33,805 - DEBUG - 38 - namespace: cam_utils, path: compound//_get_keys
+2024-07-18 18:26:33,805 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound//_get_keys.mcfunction
+2024-07-18 18:26:33,807 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_get_keys.mcfunction 中 math:compound/get_keys/main 替换为 cam_utils:compound/get_keys/main
+2024-07-18 18:26:33,807 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_get_keys.mcfunction 中 math:compound/_get_keys 替换为 cam_utils:compound/_get_keys
+2024-07-18 18:26:33,807 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_get_keys.mcfunction 中的 math:io
+2024-07-18 18:26:33,807 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_get_keys.mcfunction 中的 math:io
+2024-07-18 18:26:33,808 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_get_keys.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound//_get_keys.mcfunction
+2024-07-18 18:26:33,808 - DEBUG - 60 - math:compound//_if_key
+2024-07-18 18:26:33,808 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_if_key.mcfunction - math:compound//_if_key
+2024-07-18 18:26:33,808 - DEBUG - 38 - namespace: cam_utils, path: compound//_if_key
+2024-07-18 18:26:33,808 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound//_if_key.mcfunction
+2024-07-18 18:26:33,809 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_if_key.mcfunction 中 math:compound/_if_key 替换为 cam_utils:compound/_if_key
+2024-07-18 18:26:33,809 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_if_key.mcfunction 中的 math:io
+2024-07-18 18:26:33,809 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_if_key.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound//_if_key.mcfunction
+2024-07-18 18:26:33,809 - DEBUG - 60 - math:compound//_new_key
+2024-07-18 18:26:33,810 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_new_key.mcfunction - math:compound//_new_key
+2024-07-18 18:26:33,810 - DEBUG - 38 - namespace: cam_utils, path: compound//_new_key
+2024-07-18 18:26:33,810 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound//_new_key.mcfunction
+2024-07-18 18:26:33,810 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_new_key.mcfunction 中 math:compound/_new_key 替换为 cam_utils:compound/_new_key
+2024-07-18 18:26:33,810 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_new_key.mcfunction 中 math:compound/_if_key 替换为 cam_utils:compound/_if_key
+2024-07-18 18:26:33,810 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_new_key.mcfunction 中的 math:io
+2024-07-18 18:26:33,811 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound//_new_key.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound//_new_key.mcfunction
+2024-07-18 18:26:33,812 - DEBUG - 60 - math:compound/get_keys/first
+2024-07-18 18:26:33,812 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction - math:compound/get_keys/first
+2024-07-18 18:26:33,812 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/first
+2024-07-18 18:26:33,812 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/first.mcfunction
+2024-07-18 18:26:33,813 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction 中 math:compound/get_keys/first 替换为 cam_utils:compound/get_keys/first
+2024-07-18 18:26:33,814 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/first.mcfunction
+2024-07-18 18:26:33,814 - DEBUG - 60 - math:compound/get_keys/loop
+2024-07-18 18:26:33,814 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction - math:compound/get_keys/loop
+2024-07-18 18:26:33,814 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/loop
+2024-07-18 18:26:33,814 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,814 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/remove 替换为 cam_utils:compound/get_keys/remove
+2024-07-18 18:26:33,815 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/sloop 替换为 cam_utils:compound/get_keys/sloop
+2024-07-18 18:26:33,815 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/first 替换为 cam_utils:compound/get_keys/first
+2024-07-18 18:26:33,815 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/loop 替换为 cam_utils:compound/get_keys/loop
+2024-07-18 18:26:33,815 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/loop 替换为 cam_utils:compound/get_keys/loop
+2024-07-18 18:26:33,815 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中的 :
+2024-07-18 18:26:33,815 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中的 :
+2024-07-18 18:26:33,815 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,816 - DEBUG - 60 - math:compound/get_keys/main
+2024-07-18 18:26:33,816 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction - math:compound/get_keys/main
+2024-07-18 18:26:33,816 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/main
+2024-07-18 18:26:33,816 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,817 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction 中 math:compound/get_keys/main 替换为 cam_utils:compound/get_keys/main
+2024-07-18 18:26:33,817 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction 中 math:compound/get_keys/loop 替换为 cam_utils:compound/get_keys/loop
+2024-07-18 18:26:33,817 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,817 - DEBUG - 60 - math:compound/get_keys/remove
+2024-07-18 18:26:33,817 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction - math:compound/get_keys/remove
+2024-07-18 18:26:33,817 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/remove
+2024-07-18 18:26:33,818 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/remove.mcfunction
+2024-07-18 18:26:33,818 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction 中 math:compound/get_keys/remove 替换为 cam_utils:compound/get_keys/remove
+2024-07-18 18:26:33,819 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/remove.mcfunction
+2024-07-18 18:26:33,819 - DEBUG - 60 - math:compound/get_keys/sloop
+2024-07-18 18:26:33,819 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction - math:compound/get_keys/sloop
+2024-07-18 18:26:33,819 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/sloop
+2024-07-18 18:26:33,819 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,820 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 中 math:compound/get_keys/sloop 替换为 cam_utils:compound/get_keys/sloop
+2024-07-18 18:26:33,820 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 中 math:compound/get_keys/sloop 替换为 cam_utils:compound/get_keys/sloop
+2024-07-18 18:26:33,820 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 中的 :
+2024-07-18 18:26:33,821 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,821 - DEBUG - 60 - math:compound/hash/auto
+2024-07-18 18:26:33,821 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction - math:compound/hash/auto
+2024-07-18 18:26:33,821 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/auto
+2024-07-18 18:26:33,821 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/auto.mcfunction
+2024-07-18 18:26:33,822 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction 中 math:compound/hash/auto 替换为 cam_utils:compound/hash/auto
+2024-07-18 18:26:33,822 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction 中的 math:io
+2024-07-18 18:26:33,823 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/auto.mcfunction
+2024-07-18 18:26:33,823 - DEBUG - 60 - math:compound/hash/key
+2024-07-18 18:26:33,823 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key.mcfunction - math:compound/hash/key
+2024-07-18 18:26:33,823 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/key
+2024-07-18 18:26:33,823 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key.mcfunction
+2024-07-18 18:26:33,824 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key.mcfunction 中 math:compound/hash/key 替换为 cam_utils:compound/hash/key
+2024-07-18 18:26:33,824 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key.mcfunction 中的 math:io
+2024-07-18 18:26:33,824 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key.mcfunction
+2024-07-18 18:26:33,824 - DEBUG - 60 - math:compound/hash/key_string
+2024-07-18 18:26:33,824 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction - math:compound/hash/key_string
+2024-07-18 18:26:33,825 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/key_string
+2024-07-18 18:26:33,825 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key_string.mcfunction
+2024-07-18 18:26:33,825 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction 中 math:compound/hash/key_string 替换为 cam_utils:compound/hash/key_string
+2024-07-18 18:26:33,825 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction 中的 math:io
+2024-07-18 18:26:33,826 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key_string.mcfunction
+2024-07-18 18:26:33,826 - DEBUG - 60 - math:compound/hash/list
+2024-07-18 18:26:33,826 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/list.mcfunction - math:compound/hash/list
+2024-07-18 18:26:33,826 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/list
+2024-07-18 18:26:33,826 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/list.mcfunction
+2024-07-18 18:26:33,826 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/list.mcfunction 中 math:compound/hash/list 替换为 cam_utils:compound/hash/list
+2024-07-18 18:26:33,826 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/list.mcfunction 中的 math:io
+2024-07-18 18:26:33,828 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/list.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/list.mcfunction
+2024-07-18 18:26:33,828 - DEBUG - 60 - math:compound/hash/self
+2024-07-18 18:26:33,828 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self.mcfunction - math:compound/hash/self
+2024-07-18 18:26:33,828 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/self
+2024-07-18 18:26:33,828 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self.mcfunction
+2024-07-18 18:26:33,829 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self.mcfunction 中 math:compound/hash/self 替换为 cam_utils:compound/hash/self
+2024-07-18 18:26:33,829 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self.mcfunction 中的 math:io
+2024-07-18 18:26:33,829 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self.mcfunction
+2024-07-18 18:26:33,830 - DEBUG - 60 - math:compound/hash/self_string
+2024-07-18 18:26:33,830 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction - math:compound/hash/self_string
+2024-07-18 18:26:33,830 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/self_string
+2024-07-18 18:26:33,830 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self_string.mcfunction
+2024-07-18 18:26:33,830 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction 中 math:compound/hash/self_string 替换为 cam_utils:compound/hash/self_string
+2024-07-18 18:26:33,830 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction 中的 math:io
+2024-07-18 18:26:33,831 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self_string.mcfunction
+2024-07-18 18:26:33,831 - DEBUG - 60 - math:compound/test/get_keys
+2024-07-18 18:26:33,831 - INFO - 155 - 正在尝试转化 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction - math:compound/test/get_keys
+2024-07-18 18:26:33,831 - DEBUG - 38 - namespace: cam_utils, path: compound/test/get_keys
+2024-07-18 18:26:33,831 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/test/get_keys.mcfunction
+2024-07-18 18:26:33,832 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中 math:compound/test/get_keys 替换为 cam_utils:compound/test/get_keys
+2024-07-18 18:26:33,832 - INFO - 172 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中 math:compound/_get_keys 替换为 cam_utils:compound/_get_keys
+2024-07-18 18:26:33,832 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中的 :
+2024-07-18 18:26:33,832 - DEBUG - 169 - 没有翻译 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中的 :
+2024-07-18 18:26:33,833 - INFO - 176 - 已将 D:/Minecraft/.minecraft/saves/math3_0/datapacks/math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/test/get_keys.mcfunction
+2024-07-18 18:26:33,833 - DEBUG - 60 - math:compound/_get_keys
+2024-07-18 18:26:33,833 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction - math:compound/_get_keys
+2024-07-18 18:26:33,833 - DEBUG - 38 - namespace: cam_utils, path: compound/_get_keys
+2024-07-18 18:26:33,834 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/_get_keys.mcfunction
+2024-07-18 18:26:33,834 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction 中 math:compound/get_keys/main 替换为 cam_utils:compound/get_keys/main
+2024-07-18 18:26:33,834 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction 中 math:compound/_get_keys 替换为 cam_utils:compound/_get_keys
+2024-07-18 18:26:33,834 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction 中的 math:io
+2024-07-18 18:26:33,834 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction 中的 math:io
+2024-07-18 18:26:33,835 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_get_keys.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/_get_keys.mcfunction
+2024-07-18 18:26:33,835 - DEBUG - 60 - math:io
+2024-07-18 18:26:33,835 - DEBUG - 153 - 不存在 math:io - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/io.mcfunction
+2024-07-18 18:26:33,835 - DEBUG - 60 - math:compound/get_keys/main
+2024-07-18 18:26:33,835 - DEBUG - 150 - 已尝试进行转化 math:compound/get_keys/main - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,835 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction - math:compound/get_keys/main
+2024-07-18 18:26:33,835 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/main
+2024-07-18 18:26:33,835 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,836 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction 中 math:compound/get_keys/main 替换为 cam_utils:compound/get_keys/main
+2024-07-18 18:26:33,836 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction 中 math:compound/get_keys/loop 替换为 cam_utils:compound/get_keys/loop
+2024-07-18 18:26:33,836 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/main.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/main.mcfunction
+2024-07-18 18:26:33,836 - DEBUG - 60 - math:compound/_if_key
+2024-07-18 18:26:33,836 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction - math:compound/_if_key
+2024-07-18 18:26:33,837 - DEBUG - 38 - namespace: cam_utils, path: compound/_if_key
+2024-07-18 18:26:33,837 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/_if_key.mcfunction
+2024-07-18 18:26:33,837 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction 中 math:compound/_if_key 替换为 cam_utils:compound/_if_key
+2024-07-18 18:26:33,837 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction 中的 math:io
+2024-07-18 18:26:33,837 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_if_key.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/_if_key.mcfunction
+2024-07-18 18:26:33,838 - DEBUG - 60 - math:compound/_new_key
+2024-07-18 18:26:33,838 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction - math:compound/_new_key
+2024-07-18 18:26:33,838 - DEBUG - 38 - namespace: cam_utils, path: compound/_new_key
+2024-07-18 18:26:33,838 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/_new_key.mcfunction
+2024-07-18 18:26:33,838 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction 中 math:compound/_new_key 替换为 cam_utils:compound/_new_key
+2024-07-18 18:26:33,838 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction 中 math:compound/_if_key 替换为 cam_utils:compound/_if_key
+2024-07-18 18:26:33,839 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction 中的 math:io
+2024-07-18 18:26:33,839 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/_new_key.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/_new_key.mcfunction
+2024-07-18 18:26:33,839 - DEBUG - 60 - math:compound/get_keys/first
+2024-07-18 18:26:33,839 - DEBUG - 150 - 已尝试进行转化 math:compound/get_keys/first - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction
+2024-07-18 18:26:33,839 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction - math:compound/get_keys/first
+2024-07-18 18:26:33,839 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/first
+2024-07-18 18:26:33,839 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/first.mcfunction
+2024-07-18 18:26:33,840 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction 中 math:compound/get_keys/first 替换为 cam_utils:compound/get_keys/first
+2024-07-18 18:26:33,840 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/first.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/first.mcfunction
+2024-07-18 18:26:33,840 - DEBUG - 60 - math:compound/get_keys/loop
+2024-07-18 18:26:33,840 - DEBUG - 150 - 已尝试进行转化 math:compound/get_keys/loop - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,840 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction - math:compound/get_keys/loop
+2024-07-18 18:26:33,841 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/loop
+2024-07-18 18:26:33,841 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,841 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/remove 替换为 cam_utils:compound/get_keys/remove
+2024-07-18 18:26:33,841 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/sloop 替换为 cam_utils:compound/get_keys/sloop
+2024-07-18 18:26:33,841 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/first 替换为 cam_utils:compound/get_keys/first
+2024-07-18 18:26:33,841 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/loop 替换为 cam_utils:compound/get_keys/loop
+2024-07-18 18:26:33,841 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中 math:compound/get_keys/loop 替换为 cam_utils:compound/get_keys/loop
+2024-07-18 18:26:33,841 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中的 :
+2024-07-18 18:26:33,842 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 中的 :
+2024-07-18 18:26:33,842 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/loop.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/loop.mcfunction
+2024-07-18 18:26:33,842 - DEBUG - 60 - minecraft:/
+2024-07-18 18:26:33,842 - DEBUG - 153 - 不存在 minecraft:/ - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data//functions/
+2024-07-18 18:26:33,842 - DEBUG - 60 - math:compound/get_keys/sloop
+2024-07-18 18:26:33,842 - DEBUG - 150 - 已尝试进行转化 math:compound/get_keys/sloop - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,843 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction - math:compound/get_keys/sloop
+2024-07-18 18:26:33,843 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/sloop
+2024-07-18 18:26:33,843 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,843 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 中 math:compound/get_keys/sloop 替换为 cam_utils:compound/get_keys/sloop
+2024-07-18 18:26:33,843 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 中 math:compound/get_keys/sloop 替换为 cam_utils:compound/get_keys/sloop
+2024-07-18 18:26:33,843 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 中的 :
+2024-07-18 18:26:33,844 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/sloop.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/sloop.mcfunction
+2024-07-18 18:26:33,844 - DEBUG - 60 - math:compound/get_keys/remove
+2024-07-18 18:26:33,844 - DEBUG - 150 - 已尝试进行转化 math:compound/get_keys/remove - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction
+2024-07-18 18:26:33,844 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction - math:compound/get_keys/remove
+2024-07-18 18:26:33,844 - DEBUG - 38 - namespace: cam_utils, path: compound/get_keys/remove
+2024-07-18 18:26:33,844 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/remove.mcfunction
+2024-07-18 18:26:33,845 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction 中 math:compound/get_keys/remove 替换为 cam_utils:compound/get_keys/remove
+2024-07-18 18:26:33,845 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/get_keys/remove.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/get_keys/remove.mcfunction
+2024-07-18 18:26:33,845 - DEBUG - 60 - math:compound/hash/auto
+2024-07-18 18:26:33,845 - DEBUG - 150 - 已尝试进行转化 math:compound/hash/auto - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction
+2024-07-18 18:26:33,845 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction - math:compound/hash/auto
+2024-07-18 18:26:33,845 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/auto
+2024-07-18 18:26:33,846 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/auto.mcfunction
+2024-07-18 18:26:33,846 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction 中 math:compound/hash/auto 替换为 cam_utils:compound/hash/auto
+2024-07-18 18:26:33,846 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction 中的 math:io
+2024-07-18 18:26:33,846 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/auto.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/auto.mcfunction
+2024-07-18 18:26:33,847 - DEBUG - 60 - math:compound/hash/key
+2024-07-18 18:26:33,847 - DEBUG - 150 - 已尝试进行转化 math:compound/hash/key - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key.mcfunction
+2024-07-18 18:26:33,847 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key.mcfunction - math:compound/hash/key
+2024-07-18 18:26:33,847 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/key
+2024-07-18 18:26:33,847 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key.mcfunction
+2024-07-18 18:26:33,847 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key.mcfunction 中 math:compound/hash/key 替换为 cam_utils:compound/hash/key
+2024-07-18 18:26:33,848 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key.mcfunction 中的 math:io
+2024-07-18 18:26:33,848 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key.mcfunction
+2024-07-18 18:26:33,848 - DEBUG - 60 - math:compound/hash/key_string
+2024-07-18 18:26:33,848 - DEBUG - 150 - 已尝试进行转化 math:compound/hash/key_string - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction
+2024-07-18 18:26:33,848 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction - math:compound/hash/key_string
+2024-07-18 18:26:33,848 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/key_string
+2024-07-18 18:26:33,848 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key_string.mcfunction
+2024-07-18 18:26:33,849 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction 中 math:compound/hash/key_string 替换为 cam_utils:compound/hash/key_string
+2024-07-18 18:26:33,849 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction 中的 math:io
+2024-07-18 18:26:33,849 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/key_string.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/key_string.mcfunction
+2024-07-18 18:26:33,849 - DEBUG - 60 - math:compound/hash/list
+2024-07-18 18:26:33,849 - DEBUG - 150 - 已尝试进行转化 math:compound/hash/list - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/list.mcfunction
+2024-07-18 18:26:33,850 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/list.mcfunction - math:compound/hash/list
+2024-07-18 18:26:33,850 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/list
+2024-07-18 18:26:33,850 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/list.mcfunction
+2024-07-18 18:26:33,850 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/list.mcfunction 中 math:compound/hash/list 替换为 cam_utils:compound/hash/list
+2024-07-18 18:26:33,850 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/list.mcfunction 中的 math:io
+2024-07-18 18:26:33,851 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/list.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/list.mcfunction
+2024-07-18 18:26:33,851 - DEBUG - 60 - math:compound/hash/self
+2024-07-18 18:26:33,851 - DEBUG - 150 - 已尝试进行转化 math:compound/hash/self - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self.mcfunction
+2024-07-18 18:26:33,851 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self.mcfunction - math:compound/hash/self
+2024-07-18 18:26:33,851 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/self
+2024-07-18 18:26:33,851 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self.mcfunction
+2024-07-18 18:26:33,851 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self.mcfunction 中 math:compound/hash/self 替换为 cam_utils:compound/hash/self
+2024-07-18 18:26:33,852 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self.mcfunction 中的 math:io
+2024-07-18 18:26:33,852 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self.mcfunction
+2024-07-18 18:26:33,852 - DEBUG - 60 - math:compound/hash/self_string
+2024-07-18 18:26:33,852 - DEBUG - 150 - 已尝试进行转化 math:compound/hash/self_string - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction
+2024-07-18 18:26:33,852 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction - math:compound/hash/self_string
+2024-07-18 18:26:33,852 - DEBUG - 38 - namespace: cam_utils, path: compound/hash/self_string
+2024-07-18 18:26:33,852 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self_string.mcfunction
+2024-07-18 18:26:33,853 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction 中 math:compound/hash/self_string 替换为 cam_utils:compound/hash/self_string
+2024-07-18 18:26:33,853 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction 中的 math:io
+2024-07-18 18:26:33,853 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/hash/self_string.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/hash/self_string.mcfunction
+2024-07-18 18:26:33,853 - DEBUG - 60 - math:compound/test/get_keys
+2024-07-18 18:26:33,854 - DEBUG - 150 - 已尝试进行转化 math:compound/test/get_keys - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction
+2024-07-18 18:26:33,854 - INFO - 155 - 正在尝试转化 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction - math:compound/test/get_keys
+2024-07-18 18:26:33,854 - DEBUG - 38 - namespace: cam_utils, path: compound/test/get_keys
+2024-07-18 18:26:33,854 - DEBUG - 39 - D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/test/get_keys.mcfunction
+2024-07-18 18:26:33,854 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中 math:compound/test/get_keys 替换为 cam_utils:compound/test/get_keys
+2024-07-18 18:26:33,854 - INFO - 172 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中 math:compound/_get_keys 替换为 cam_utils:compound/_get_keys
+2024-07-18 18:26:33,854 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中的 :
+2024-07-18 18:26:33,855 - DEBUG - 169 - 没有翻译 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 中的 :
+2024-07-18 18:26:33,855 - INFO - 176 - 已将 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/math/functions/compound/test/get_keys.mcfunction 转化为 D:\Minecraft\.minecraft\saves\math3_0\datapacks\math3.0_dslib/data/cam_utils/functions/compound/test/get_keys.mcfunction
+2024-07-18 18:26:33,855 - INFO - 177 - 转化完成
