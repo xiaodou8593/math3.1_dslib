@@ -1,0 +1,11 @@
+#math:world_bfs/doc.mcfo
+
+# world_bfs临时对象
+_this:{
+	produce_queue:[storage math:io produce_queue,ListCompound],
+	death_queue:[storage math:io death_queue,ListCompound],
+	vis_table:[storage math:io vis_table,Compound],
+	cur_iter:<cur_iter,int>,
+	produce_rate:<produce_rate,int>,
+	death_rate:<death_rate,int>
+}

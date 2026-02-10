@@ -13,3 +13,7 @@ function math:set/init
 
 # 空间初始化
 function math:space/init
+
+# 空间bfs初始化
+function math:world_bfs/init
+function math:world_bfs/cell/init

@@ -1,0 +1,16 @@
+#math:world_bfs/cell/doc.mcfo
+
+# cell临时对象
+_this:{
+	position:{
+		<x,int,1>,
+		<y,int,1>,
+		<z,int,1>
+	},
+	generation:<generation,int>,
+	health:<health,int>,
+	spawn_func:[storage math:io spawn_func,String],
+	produce_func:[storage math:io produce_func,String],
+	death_func:[storage math:io death_func,String],
+	cell_info:[storage math:io cell_info,Compound]
+}
