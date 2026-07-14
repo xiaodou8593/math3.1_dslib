@@ -17,3 +17,6 @@ function math:space/init
 # 空间bfs初始化
 function math:world_bfs/init
 function math:world_bfs/cell/init
+
+function math:_version_ds
+scoreboard players operation math_ds_init_version int = version_ds int
